@@ -1,5 +1,5 @@
 {
-  "name": "elastic-apm-node",
+  "name": "elastic-apm-node-fix",
   "version": "1.14.5",
   "description": "The official Elastic APM agent for Node.js",
   "main": "index.js",
